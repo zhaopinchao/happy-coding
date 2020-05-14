@@ -6,7 +6,6 @@
 .classpath
 *.iml
 .idea
-.idea/*
 target/
 */logs/*
 logs/*
