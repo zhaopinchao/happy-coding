@@ -10,7 +10,6 @@ import org.elasticsearch.client.RestClient;
 import org.elasticsearch.client.RestHighLevelClient;
 
 import java.io.IOException;
-import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -19,12 +18,10 @@ import java.util.Map;
  * @date: 2020-05-06 22:03
  * @description
  */
-public class ConnectTest {
+public class IndexApiPractice {
     public static void main(String[] args) throws IOException {
-        RestHighLevelClient client = new RestHighLevelClient(RestClient.builder(
-                new HttpHost("localhost", 9200, "http")
-        ));
-        Map<String, Object> jsonMap = new HashMap<>();
+        RestHighLevelClient client = EsClient.getClient();
+        Map<String, Object> jsonMap = new HashMap<>(3);
         jsonMap.put("user", "kimchy");
         jsonMap.put("postDate", System.currentTimeMillis());
         jsonMap.put("message", "trying out Elasticsearch");
@@ -35,6 +32,6 @@ public class ConnectTest {
         ObjectMapper mapper = new ObjectMapper();
         String responseJson = mapper.writeValueAsString(response);
         System.out.println(responseJson);
-        client.close();
+        EsClient.close();
     }
 }

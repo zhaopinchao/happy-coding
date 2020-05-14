@@ -10,6 +10,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>elasticsearch-java</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>qqq</module>
+    </modules>
 
     <dependencies>
         <dependency>
