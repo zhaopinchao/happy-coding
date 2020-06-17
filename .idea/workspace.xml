@@ -2,12 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d589a7f-faf8-4f65-84a6-4c743d33e248" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/leetcode/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/Q06ReversePrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/Q104MaxDepth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/Q1371FindTheLongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/Q152MaxProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/Q15ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/Q210FindOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/Q239MaxSlidingWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/Q24SwapPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/Q258AddDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/Q350Intersect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/Q412FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/Q434CountSegments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/Q560SubarraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/Q680ValidPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/Q68LowestCommonAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/Q70ClimbStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/ClimbingStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/GenerateParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/GetKthMagicNumberLcci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/InvertBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/MaximumDepthOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/MinimumDepthOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/PowxN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/Subsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/ValidateBinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/all.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/translation.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/elasticsearch-java/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/elasticsearch-java/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elasticsearch-java/src/main/java/com/conding/elasticsearch/ConnectTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/elasticsearch-java/target/" />
+    <ignored path="$PROJECT_DIR$/leetcode/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,23 +53,52 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/elasticsearch-java/src/main/java/com/conding/elasticsearch/GetApiPractice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1320">
-              <caret line="68" column="20" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/elasticsearch-java/src/main/java/com/conding/elasticsearch/UpdateApiPractice.java">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/WordLadder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="22" column="58" lean-forward="true" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
+            <state relative-caret-position="259">
+              <caret line="78" column="58" lean-forward="true" selection-start-line="78" selection-start-column="58" selection-end-line="78" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="3007" column="21" lean-forward="true" selection-start-line="3007" selection-start-column="21" selection-end-line="3007" selection-end-column="21" />
+              <folding>
+                <element signature="e#5687#5688#0" expanded="true" />
+                <element signature="e#5750#5751#0" expanded="true" />
+                <element signature="e#118405#118406#0" expanded="true" />
+                <element signature="e#118444#118445#0" expanded="true" />
+                <element signature="e#121727#121728#0" expanded="true" />
+                <element signature="e#121769#121770#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/util/ArrayDeque.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="246">
+              <caret line="464" column="13" selection-start-line="464" selection-start-column="13" selection-end-line="464" selection-end-column="13" />
+              <folding>
+                <element signature="e#15015#15016#0" expanded="true" />
+                <element signature="e#15049#15050#0" expanded="true" />
+                <element signature="e#24655#24656#0" expanded="true" />
+                <element signature="e#24702#24703#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/Q06ReversePrint.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="30" column="29" lean-forward="true" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -44,82 +107,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/lang/Runnable.java">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/ListNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="968">
-              <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+            <state relative-caret-position="228">
+              <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/elasticsearch-java/src/main/java/com/conding/elasticsearch/EsClient.java">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/Q24SwapPairs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/client/elasticsearch-rest-client/7.6.2/elasticsearch-rest-client-7.6.2.jar!/org/elasticsearch/client/RequestOptions.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/elasticsearch-java/src/main/java/com/conding/elasticsearch/IndexApiPractice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="23" column="53" selection-start-line="23" selection-start-column="53" selection-end-line="23" selection-end-column="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/elasticsearch-java/src/main/java/com/conding/elasticsearch/DeleteApiPractice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch-core/7.6.2/elasticsearch-core-7.6.2.jar!/org/elasticsearch/common/unit/TimeValue.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/util/AbstractMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="968">
-              <caret line="67" column="22" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/7.6.2/elasticsearch-7.6.2.jar!/org/elasticsearch/script/ScriptType.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+            <state relative-caret-position="234">
+              <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -133,14 +133,19 @@
       </list>
     </option>
   </component>
-  <component name="FindBugs-IDEA-Workspace">
-    <toolWindowEditorPreview>false</toolWindowEditorPreview>
-  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>DEFAULT</find>
       <find>method</find>
+      <find>[</find>
+      <find>*</find>
+      <find>put</find>
+      <find>put(</find>
+      <find>qqq</find>
     </findStrings>
+    <replaceStrings>
+      <replace>{</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -148,7 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/elasticsearch-java/pom.xml" />
         <option value="$PROJECT_DIR$/elasticsearch-java/src/main/java/com/conding/elasticsearch/Connection.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/elasticsearch-java/src/main/java/com/conding/elasticsearch/ESConnectionUtils.java" />
@@ -161,6 +165,45 @@
         <option value="$PROJECT_DIR$/elasticsearch-java/src/main/java/com/conding/elasticsearch/GetApiPractice.java" />
         <option value="$PROJECT_DIR$/elasticsearch-java/src/main/java/com/conding/elasticsearch/IndexApiPractice.java" />
         <option value="$PROJECT_DIR$/elasticsearch-java/src/main/java/com/conding/elasticsearch/UpdateApiPractice.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/Q560SubarraySum.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/Q210FindOrder.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/Q1371FindTheLongestSubstring.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/Q152MaxProduct.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/Q680ValidPalindrome.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/ListNode.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/Q24SwapPairs.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/Q350Intersect.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/Q239MaxSlidingWindow.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/Q412FizzBuzz.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/Q258AddDigits.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/Q434CountSegments.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/TreeNode.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/Q104MaxDepth.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/Q70ClimbStairs.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/Q06ReversePrint.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/Q68.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/Q68LowestCommonAncestor.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/Q15ThreeSum.java" />
+        <option value="$PROJECT_DIR$/elasticsearch-java/pom.xml" />
+        <option value="/var/folders/gy/fqs77h0s4nn4byrmc43z7mm80000gn/T/leetcode/editor/cn/[15]三数之和.java" />
+        <option value="/var/folders/gy/fqs77h0s4nn4byrmc43z7mm80000gn/T/leetcode/editor/cn/[面试题 17.09]第 k 个数.java" />
+        <option value="$PROJECT_DIR$/leetcode-temp/leetcode/editor/cn/GetKthMagicNumberLcci.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/leetcode/editor/cn/GetKthMagicNumberLcci.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/GetKthMagicNumberLcci.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/ThreeSum.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/PowxN.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/Subsets.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/ClimbingStairs.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/GenerateParentheses.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/TreeNode.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/InvertBinaryTree.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/ValidateBinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/MaximumDepthOfBinaryTree.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/MinimumDepthOfBinaryTree.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/Permutations.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/ListNode.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/WordLadder.java" />
       </list>
     </option>
   </component>
@@ -171,23 +214,13 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="happy-coding" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="happy-coding" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
+    <option name="y" value="203" />
+    <option name="width" value="1392" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectView">
@@ -195,6 +228,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -205,51 +240,42 @@
             <path>
               <item name="happy-coding" type="b2602c69:ProjectViewProjectNode" />
               <item name="happy-coding" type="462c0819:PsiDirectoryNode" />
-              <item name="elasticsearch-java" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="happy-coding" type="b2602c69:ProjectViewProjectNode" />
               <item name="happy-coding" type="462c0819:PsiDirectoryNode" />
-              <item name="elasticsearch-java" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="happy-coding" type="b2602c69:ProjectViewProjectNode" />
               <item name="happy-coding" type="462c0819:PsiDirectoryNode" />
-              <item name="elasticsearch-java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="happy-coding" type="b2602c69:ProjectViewProjectNode" />
-              <item name="happy-coding" type="462c0819:PsiDirectoryNode" />
-              <item name="elasticsearch-java" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="happy-coding" type="b2602c69:ProjectViewProjectNode" />
               <item name="happy-coding" type="462c0819:PsiDirectoryNode" />
-              <item name="elasticsearch-java" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="elasticsearch" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="happy-coding" type="b2602c69:ProjectViewProjectNode" />
               <item name="happy-coding" type="462c0819:PsiDirectoryNode" />
-              <item name="elasticsearch-java" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -260,7 +286,12 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zhaopinchao.leetcode.editor.cn" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -274,13 +305,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UpdateApiPractice">
-    <configuration name="DeleteApiPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.conding.elasticsearch.DeleteApiPractice" />
-      <module name="elasticsearch-java" />
+  <component name="RunManager" selected="Application.WordLadder">
+    <configuration name="GenerateParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhaopinchao.leetcode.editor.cn.GenerateParentheses" />
+      <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.conding.elasticsearch.*" />
+          <option name="PATTERN" value="com.zhaopinchao.leetcode.editor.cn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,12 +319,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EsClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.conding.elasticsearch.EsClient" />
-      <module name="elasticsearch-java" />
+    <configuration name="PowxN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhaopinchao.leetcode.editor.cn.PowxN" />
+      <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.conding.elasticsearch.*" />
+          <option name="PATTERN" value="com.zhaopinchao.leetcode.editor.cn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -301,12 +332,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetApiPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.conding.elasticsearch.GetApiPractice" />
-      <module name="elasticsearch-java" />
+    <configuration name="Subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhaopinchao.leetcode.editor.cn.Subsets" />
+      <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.conding.elasticsearch.*" />
+          <option name="PATTERN" value="com.zhaopinchao.leetcode.editor.cn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -314,12 +345,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IndexApiPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.conding.elasticsearch.IndexApiPractice" />
-      <module name="elasticsearch-java" />
+    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhaopinchao.leetcode.editor.cn.ThreeSum" />
+      <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.conding.elasticsearch.*" />
+          <option name="PATTERN" value="com.zhaopinchao.leetcode.editor.cn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -327,12 +358,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UpdateApiPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.conding.elasticsearch.UpdateApiPractice" />
-      <module name="elasticsearch-java" />
+    <configuration name="WordLadder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhaopinchao.leetcode.editor.cn.WordLadder" />
+      <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.conding.elasticsearch.*" />
+          <option name="PATTERN" value="com.zhaopinchao.leetcode.editor.cn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -342,11 +373,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UpdateApiPractice" />
-        <item itemvalue="Application.GetApiPractice" />
-        <item itemvalue="Application.DeleteApiPractice" />
-        <item itemvalue="Application.EsClient" />
-        <item itemvalue="Application.IndexApiPractice" />
+        <item itemvalue="Application.WordLadder" />
+        <item itemvalue="Application.GenerateParentheses" />
+        <item itemvalue="Application.Subsets" />
+        <item itemvalue="Application.PowxN" />
+        <item itemvalue="Application.ThreeSum" />
       </list>
     </recent_temporary>
   </component>
@@ -369,17 +400,68 @@
       <workItem from="1589365004213" duration="81000" />
       <workItem from="1589465633868" duration="3940000" />
       <workItem from="1589469948355" duration="436000" />
+      <workItem from="1589472413850" duration="40000" />
+      <workItem from="1589554900718" duration="55000" />
+      <workItem from="1589554992215" duration="24259000" />
+      <workItem from="1590072864611" duration="2494000" />
+      <workItem from="1590151597009" duration="14000" />
+      <workItem from="1590418995727" duration="1143000" />
+      <workItem from="1590505256148" duration="6143000" />
+      <workItem from="1590677067491" duration="1011000" />
+      <workItem from="1590759022307" duration="4940000" />
+      <workItem from="1590842679955" duration="579000" />
+      <workItem from="1590892079092" duration="2045000" />
+      <workItem from="1590909564870" duration="602000" />
+      <workItem from="1591056461576" duration="1598000" />
+      <workItem from="1591194143973" duration="878000" />
+      <workItem from="1591283721590" duration="1462000" />
+      <workItem from="1591320150805" duration="308000" />
+      <workItem from="1591447224487" duration="1871000" />
+      <workItem from="1591449391536" duration="24098000" />
+      <workItem from="1591630347474" duration="718000" />
+      <workItem from="1591713352783" duration="1668000" />
+      <workItem from="1592230195825" duration="4615000" />
     </task>
+    <task id="LOCAL-00001" summary="ignore">
+      <created>1589472215413</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589472215413</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ignore">
+      <created>1589472268060</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589472268060</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ignore">
+      <created>1589472310277</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589472310277</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ignore">
+      <created>1589472394733</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589472394733</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21859000" />
+    <option name="totallyTimeSpent" value="103013000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1392" height="877" extended-state="6" />
+    <frame x="0" y="203" width="1392" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22666667" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49919224" weight="0.29259259" />
+      <window_info id="Structure" order="1" sideWeight="0.50080776" side_tool="true" weight="0.23481481" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -387,402 +469,493 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5847134" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4611465" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2700637" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.44968152" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.8076433" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49925926" weight="0.42802548" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3284974" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50074077" side_tool="true" weight="0.21146497" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32738853" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" weight="0.3299363" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Maven" order="3" weight="0.32962963" />
-      <window_info anchor="right" id="PlantUML" order="4" />
+      <window_info anchor="right" id="PlantUML" order="4" weight="0.32962963" />
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="leetcode" order="10" weight="0.2162963" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="ignore" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode-temp/leetcode/editor/cn/GetKthMagicNumberLcci.java</url>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>i - k</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>q.swapPairs(head)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>nextN</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>next.next</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>node</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>next</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>s.charAt(j)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>s.charAt(i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>bytes</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.10.2/jackson-databind-2.10.2.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1378">
-          <caret line="65" column="27" selection-start-line="65" selection-start-column="27" selection-end-line="65" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/7.6.2/elasticsearch-7.6.2.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2949" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elasticsearch-java/qqq/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/elasticsearch-java/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/org/elasticsearch/client/elasticsearch-rest-high-level-client/7.6.2/elasticsearch-rest-high-level-client-7.6.2.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="17" selection-start-line="12" selection-start-column="4" selection-end-line="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/7.6.2/elasticsearch-7.6.2.jar!/org/elasticsearch/action/support/replication/ReplicatedWriteRequest.class">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/Q239MaxSlidingWindow.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elasticsearch-java/src/main/java/com/conding/elasticsearch/ESConnectionUtils.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/7.6.2/elasticsearch-7.6.2.jar!/org/elasticsearch/action/RealtimeRequest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/7.6.2/elasticsearch-7.6.2.jar!/org/elasticsearch/action/support/single/shard/SingleShardRequest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/7.6.2/elasticsearch-7.6.2.jar!/org/elasticsearch/common/io/stream/StreamInput.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="485" column="25" selection-start-line="485" selection-start-column="25" selection-end-line="485" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/client/elasticsearch-rest-high-level-client/7.6.2/elasticsearch-rest-high-level-client-7.6.2.jar!/org/elasticsearch/client/LicenseClient.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="92" column="48" selection-start-line="92" selection-start-column="34" selection-end-line="92" selection-end-column="48" />
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1714#1715#0" expanded="true" />
-            <element signature="e#1776#1777#0" expanded="true" />
-            <element signature="method#convertResponseToJson#0;class#LicenseClient#0" />
+            <element signature="method#maxSlidingWindow2#0;class#Q239MaxSlidingWindow#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.10.2/jackson-core-2.10.2.jar!/com/fasterxml/jackson/core/JsonProcessingException.class">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/util/Deque.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="5896">
+          <caret line="301" column="18" selection-start-line="301" selection-start-column="18" selection-end-line="301" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/7.6.2/elasticsearch-7.6.2.jar!/org/elasticsearch/action/get/GetResponse.class">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/Q412FizzBuzz.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="26" column="47" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="467" column="10" selection-start-line="467" selection-start-column="10" selection-end-line="467" selection-end-column="10" />
+        <state relative-caret-position="330">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
           <folding>
-            <element signature="e#19103#19104#0" expanded="true" />
-            <element signature="e#19161#19162#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/7.6.2/elasticsearch-7.6.2.jar!/org/elasticsearch/client/Requests.class">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/Q258AddDigits.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="55" column="31" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
+        <state relative-caret-position="352">
+          <caret line="16" column="19" selection-start-line="8" selection-start-column="8" selection-end-line="16" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/7.6.2/elasticsearch-7.6.2.jar!/org/elasticsearch/action/index/IndexRequest.class">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/Q434CountSegments.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="332" column="24" selection-start-line="332" selection-start-column="24" selection-end-line="332" selection-end-column="24" />
+        <state relative-caret-position="396">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
           <folding>
-            <element signature="e#11586#11587#0" expanded="true" />
-            <element signature="e#11657#11658#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/7.6.2/elasticsearch-7.6.2.jar!/org/elasticsearch/search/fetch/subphase/FetchSourceContext.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="30" column="50" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/7.6.2/elasticsearch-7.6.2.jar!/org/elasticsearch/action/bulk/BulkRequest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-484">
-          <caret line="35" column="24" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/util/Optional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="144" column="19" selection-start-line="144" selection-start-column="19" selection-end-line="144" selection-end-column="19" />
-          <folding>
-            <element signature="e#4242#4243#0" expanded="true" />
-            <element signature="e#4278#4279#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/client/elasticsearch-rest-high-level-client/7.6.2/elasticsearch-rest-high-level-client-7.6.2.jar!/org/elasticsearch/client/indices/CloseIndexRequest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="46" column="41" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.10/httpclient-4.5.10.jar!/org/apache/http/client/methods/HttpRequestBase.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
-          <folding>
-            <element signature="e#1651#1652#0" expanded="true" />
-            <element signature="e#1681#1682#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/client/elasticsearch-rest-client/7.6.2/elasticsearch-rest-client-7.6.2.jar!/org/elasticsearch/client/HttpDeleteWithEntity.class">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/Q1371FindTheLongestSubstring.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="36" selection-end-column="19" />
           <folding>
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/client/elasticsearch-rest-client/7.6.2/elasticsearch-rest-client-7.6.2.jar!/org/elasticsearch/client/Cancellable.class">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-          <folding>
-            <element signature="e#631#632#0" expanded="true" />
-            <element signature="e#682#683#0" expanded="true" />
-            <element signature="e#738#739#0" expanded="true" />
-            <element signature="e#784#785#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1298">
+          <caret line="82" column="23" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/client/elasticsearch-rest-client/7.6.2/elasticsearch-rest-client-7.6.2.jar!/org/elasticsearch/client/Request.class">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/util/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
-          <folding>
-            <element signature="e#977#978#0" expanded="true" />
-            <element signature="e#1011#1012#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="550">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/7.6.2/elasticsearch-7.6.2.jar!/org/elasticsearch/index/VersionType.class">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/Q104MaxDepth.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="57" column="12" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="12" />
+        <state relative-caret-position="176">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/7.6.2/elasticsearch-7.6.2.jar!/org/elasticsearch/action/get/GetRequest.class">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="121" column="24" lean-forward="true" selection-start-line="121" selection-start-column="24" selection-end-line="121" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/7.6.2/elasticsearch-7.6.2.jar!/org/elasticsearch/common/Strings.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        <state relative-caret-position="858">
+          <caret line="62" column="38" selection-start-line="62" selection-start-column="38" selection-end-line="62" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        <state relative-caret-position="418">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/7.6.2/elasticsearch-7.6.2.jar!/org/elasticsearch/action/support/WriteRequest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
-        </state>
-      </provider>
+    <entry file="file:///var/folders/gy/fqs77h0s4nn4byrmc43z7mm80000gn/T/leetcode/editor/cn/[面试题 17.10]主要元素.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/7.6.2/elasticsearch-7.6.2.jar!/org/elasticsearch/action/support/ActiveShardCount.class">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/Q70ClimbStairs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="50" column="16" selection-start-line="48" selection-start-column="8" selection-end-line="50" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/7.6.2/elasticsearch-7.6.2.jar!/org/elasticsearch/action/update/UpdateRequest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8646">
-          <caret line="465" column="38" selection-start-line="465" selection-start-column="38" selection-end-line="465" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elasticsearch-java/src/main/java/com/conding/elasticsearch/Test.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/client/elasticsearch-rest-high-level-client/7.6.2/elasticsearch-rest-high-level-client-7.6.2.jar!/org/elasticsearch/client/RestHighLevelClient.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9856">
-          <caret line="618" column="46" selection-start-line="618" selection-start-column="46" selection-end-line="618" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/client/elasticsearch-rest-client/7.6.2/elasticsearch-rest-client-7.6.2.jar!/org/elasticsearch/client/RestClient.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11132">
-          <caret line="569" column="8" selection-start-line="569" selection-start-column="8" selection-end-line="569" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch-core/7.6.2/elasticsearch-core-7.6.2.jar!/org/elasticsearch/common/CheckedFunction.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/client/elasticsearch-rest-high-level-client/7.6.2/elasticsearch-rest-high-level-client-7.6.2.jar!/org/elasticsearch/client/Validatable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97834">
-          <caret line="4853" column="23" selection-start-line="4853" selection-start-column="23" selection-end-line="4853" selection-end-column="23" />
-          <folding>
-            <element signature="e#188769#188770#0" expanded="true" />
-            <element signature="e#188822#188823#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/7.6.2/elasticsearch-7.6.2.jar!/org/elasticsearch/action/DocWriteRequest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elasticsearch-java/src/main/java/com/conding/elasticsearch/GetApiPractice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1320">
-          <caret line="68" column="20" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
+        <state relative-caret-position="946">
+          <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/lang/Runnable.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/Q15ThreeSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="968">
-          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/elasticsearch-java/src/main/java/com/conding/elasticsearch/EsClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/client/elasticsearch-rest-client/7.6.2/elasticsearch-rest-client-7.6.2.jar!/org/elasticsearch/client/RequestOptions.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elasticsearch-java/src/main/java/com/conding/elasticsearch/IndexApiPractice.java">
+    <entry file="file://$PROJECT_DIR$/elasticsearch-java/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="23" column="53" selection-start-line="23" selection-start-column="53" selection-end-line="23" selection-end-column="53" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/folders/gy/fqs77h0s4nn4byrmc43z7mm80000gn/T/leetcode/editor/cn/[15]三数之和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#0#476#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/folders/gy/fqs77h0s4nn4byrmc43z7mm80000gn/T/leetcode/editor/cn/[面试题 17.09]第 k 个数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#369#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/folders/gy/fqs77h0s4nn4byrmc43z7mm80000gn/T/leetcode/editor/cn/[面试题 17.17]多次搜索.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode-temp/leetcode/editor/cn/all.json" />
+    <entry file="file://$PROJECT_DIR$/leetcode-temp/leetcode/editor/cn/translation.json" />
+    <entry file="file://$PROJECT_DIR$/leetcode-temp/leetcode/editor/cn/GetKthMagicNumberLcci.java" />
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/GetKthMagicNumberLcci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="317" column="22" lean-forward="true" selection-start-line="317" selection-start-column="22" selection-end-line="317" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="511" column="19" selection-start-line="511" selection-start-column="19" selection-end-line="511" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="511" column="12" selection-start-line="511" selection-start-column="12" selection-end-line="511" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/ThreeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/PowxN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="50" column="9" lean-forward="true" selection-start-line="41" selection-start-column="12" selection-end-line="50" selection-end-column="9" />
+          <folding>
+            <element signature="e#722#723#0" expanded="true" />
+            <element signature="e#790#791#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/Subsets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="58" column="51" lean-forward="true" selection-start-line="58" selection-start-column="51" selection-end-line="58" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/elasticsearch-java/src/main/java/com/conding/elasticsearch/DeleteApiPractice.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/ClimbingStairs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        <state relative-caret-position="504">
+          <caret line="48" column="23" lean-forward="true" selection-start-line="36" selection-start-column="11" selection-end-line="48" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="50" column="11" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="406" column="29" selection-start-line="406" selection-start-column="26" selection-end-line="406" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/GenerateParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch-core/7.6.2/elasticsearch-core-7.6.2.jar!/org/elasticsearch/common/unit/TimeValue.class">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/javax/swing/tree/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+        <state relative-caret-position="506">
+          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/util/AbstractMap.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="968">
-          <caret line="67" column="22" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
+        <state relative-caret-position="286">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/7.6.2/elasticsearch-7.6.2.jar!/org/elasticsearch/script/ScriptType.class">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/InvertBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        <state relative-caret-position="408">
+          <caret line="51" column="35" lean-forward="true" selection-start-line="51" selection-start-column="35" selection-end-line="51" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/elasticsearch-java/src/main/java/com/conding/elasticsearch/UpdateApiPractice.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/MaximumDepthOfBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="22" column="58" lean-forward="true" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
+        <state relative-caret-position="484">
+          <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/MinimumDepthOfBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/Q68LowestCommonAncestor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/ValidateBinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="54" selection-start-line="54" selection-end-line="79" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/Permutations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/jre/lib/rt.jar!/java/util/AbstractMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="47" column="24" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#11551#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="1015" column="29" selection-start-line="1015" selection-start-column="29" selection-end-line="1015" selection-end-column="29" />
+          <folding>
+            <element signature="e#24331#24332#0" expanded="true" />
+            <element signature="e#24396#24397#0" expanded="true" />
+            <element signature="e#66928#66929#0" expanded="true" />
+            <element signature="e#66985#66986#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="118" column="12" selection-start-line="118" selection-start-column="12" selection-end-line="118" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/Q06ReversePrint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="30" column="29" lean-forward="true" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/Q24SwapPairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/translation.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/util/ArrayDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="464" column="13" selection-start-line="464" selection-start-column="13" selection-end-line="464" selection-end-column="13" />
+          <folding>
+            <element signature="e#15015#15016#0" expanded="true" />
+            <element signature="e#15049#15050#0" expanded="true" />
+            <element signature="e#24655#24656#0" expanded="true" />
+            <element signature="e#24702#24703#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="3007" column="21" lean-forward="true" selection-start-line="3007" selection-start-column="21" selection-end-line="3007" selection-end-column="21" />
+          <folding>
+            <element signature="e#5687#5688#0" expanded="true" />
+            <element signature="e#5750#5751#0" expanded="true" />
+            <element signature="e#118405#118406#0" expanded="true" />
+            <element signature="e#118444#118445#0" expanded="true" />
+            <element signature="e#121727#121728#0" expanded="true" />
+            <element signature="e#121769#121770#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/zhaopinchao/leetcode/editor/cn/WordLadder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="78" column="58" lean-forward="true" selection-start-line="78" selection-start-column="58" selection-end-line="78" selection-end-column="58" />
         </state>
       </provider>
     </entry>
