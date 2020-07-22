@@ -49,55 +49,69 @@ import java.util.*;
 public class WordLadder {
     public static void main(String[] args) {
         Solution solution = new WordLadder().new Solution();
-        int length = solution.ladderLength("ymain", "oecij", Arrays.asList("ymann", "yycrj", "oecij", "ymcnj", "yzcrj", "yycij", "xecij", "yecij", "ymanj", "yzcnj", "ymain"));
-        System.out.println(length);
+//        int length = solution.ladderLength("ymain", "oecij", Arrays.asList("ymann", "yycrj", "oecij", "ymcnj", "yzcrj", "yycij", "xecij", "yecij", "ymanj", "yzcnj", "ymain"));
+//        System.out.println(length);
+//        System.out.println("==================================");
+        int length1 = solution.ladderLength("hit", "cog", Arrays.asList("hot", "dot", "dog", "lot", "log", "cog"));
+        System.out.println(length1);
+//        System.out.println("==================================");
+//        int length2 = solution.ladderLength("hit", "cog", Arrays.asList("hot", "dot", "tog", "cog"));
+//        System.out.println(length2);
+//        System.out.println("==================================");
+//        int length3 = solution.ladderLength("dog", "cog", Arrays.asList("hot", "dot", "dog", "lot", "cog"));
+//        System.out.println(length3);
+//        System.out.println("==================================");
     }
 
     //leetcode submit region begin(Prohibit modification and deletion)
     class Solution {
+        // 双向 BFS
         public int ladderLength(String beginWord, String endWord, List<String> wordList) {
-            if (wordList == null || wordList.size() == 0) {
-                return 0;
+            if (wordList == null || wordList.size() == 0) return 0;
+            //字典存map集合
+            Map<String, Boolean> dis = new HashMap<>(wordList.size());
+            for (int i = 0; i < wordList.size(); i++) {
+                dis.put(wordList.get(i), false);
             }
-            Set<String> set = new HashSet<>(wordList);
-            if (!set.contains(endWord)) {
-                return 0;
-            }
-            set.remove(beginWord);
+            if(!dis.containsKey(endWord)) return 0;
             int res = 1;
-            Set<String> visited = new HashSet<>();
-            Deque<String> deque = new ArrayDeque<>();
-            deque.addLast(beginWord);
-            while (!deque.isEmpty()) {
-                int size = deque.size();
+            Set<String> begin = new HashSet<>();
+            begin.add(beginWord);
+            Set<String> end = new HashSet<>();
+            end.add(endWord);
+            while (!begin.isEmpty()) {
+                if (begin.size() > end.size()) {
+                    Set<String> temp = begin;
+                    begin = end;
+                    end = temp;
+                }
                 res++;
-                for (int i = 0; i < size; i++) {
-                    String temp = deque.pollLast();
-                    char[] chars = temp.toCharArray();
-                    for (int j = 0; j < chars.length; j++) {
-                        char origin = chars[j];
-                        for (int k = 'a'; k <= 'z'; k++) {
-                            if (origin == k) {
-                                continue;
-                            }
-                            chars[j] = (char) k;
-                            String newStr = new String(chars);
-                            if (newStr.equals(endWord)) {
+                Set<String> set = new HashSet<>();
+                for (String string : begin) {
+                    char[] chars = string.toCharArray();
+                    for (int i = 0; i < chars.length; i++) {
+                        char c = chars[i];
+                        for (char j = 'a'; j <= 'z'; j++) {
+                            if(j == c) continue;
+                            chars[i] = j;
+                            String s = String.valueOf(chars);
+                            if(end.contains(s)) {
+                                //如果end集合包含了这个串,那么说明双向bfs相撞了,可以返回结果了
                                 return res;
                             }
-                            if (set.contains(newStr) && !visited.contains(newStr)) {
-                                deque.addFirst(newStr);
-                                visited.add(newStr);
+                            if (dis.containsKey(s) && !dis.get(s)) {
+                                dis.put(s, true);
+                                set.add(s);
                             }
                         }
-                        chars[j] = origin;
+                        chars[i] = c;
                     }
                 }
+                begin = set;
             }
+
             return 0;
         }
-
-
     }
 //leetcode submit region end(Prohibit modification and deletion)
 

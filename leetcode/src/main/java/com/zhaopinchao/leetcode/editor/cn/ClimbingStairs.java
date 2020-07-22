@@ -29,26 +29,27 @@ package com.zhaopinchao.leetcode.editor.cn;
 public class ClimbingStairs {
     public static void main(String[] args) {
         Solution solution = new ClimbingStairs().new Solution();
+        System.out.println(solution.climbStairs(10));
     }
 
-    //leetcode submit region begin(Prohibit modification and deletion)
-    class Solution {
-        public int climbStairs(int n) {
-            if (n < 3) {
-                return n;
-            }
-            //直接递归会超时,n-1 和 n-2 其实每次都算过的, 这里用双指针
-//            return climbStairs(n - 1) + climbStairs(n - 2);
-            int pre2 = 1, pre1 = 2, cur = 0;
-            for (int i = 3; i <= n; i++) {
-                int temp = cur;
-                cur = pre1 + pre2;
-                pre2 = pre1;
-                pre1 = temp;
-            }
-            return cur;
+//leetcode submit region begin(Prohibit modification and deletion)
+class Solution {
+    public int climbStairs(int n) {
+        //找重复子问题
+        //要爬上n层,必须是从n-1层和从n-2层爬上来
+        //f(n) = f(n-1)+f(n-2)
+        if (n <= 3) {
+            return n;
         }
+        int pre2 = 2, pre1 = 3, cur = 0;
+        for (int i = 4; i <= n; i++) {
+            cur = pre1 + pre2;
+            pre2 = pre1;
+            pre1 = cur;
+        }
+        return cur;
     }
+}
 //leetcode submit region end(Prohibit modification and deletion)
 
 }
