@@ -15,7 +15,7 @@
 
     <properties>
         <elasticsearch.version>7.6.2</elasticsearch.version>
-        <jackson.version>2.10.2</jackson.version>
+        <jackson.version>2.10.5.1</jackson.version>
     </properties>
 
     <dependencies>
