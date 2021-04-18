@@ -1,7 +1,7 @@
-package creation.simplefactory;
+package creation.factroy.simplefactory;
 
-import creation.Config;
-import creation.ConfigParser;
+import creation.factroy.SystemConfig;
+import creation.factroy.ISystemConfigParser;
 
 import java.util.Objects;
 
@@ -14,10 +14,10 @@ public class SimpleFactoryClient {
     public static void main(String[] args) {
         String configType = ConfigParserSimpleFactory.JSON;
         String path = "config.json";
-        ConfigParser configParser = ConfigParserSimpleFactory.getConfigParser(configType);
-        if(Objects.isNull(configParser)) {
+        ISystemConfigParser systemConfigParser = ConfigParserSimpleFactory.getConfigParser(configType);
+        if(Objects.isNull(systemConfigParser)) {
             throw new RuntimeException("config parser cannot be null");
         }
-        Config config = configParser.parse(path);
+        SystemConfig systemConfig = systemConfigParser.parse(path);
     }
 }

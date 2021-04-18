@@ -1,4 +1,4 @@
-package creation;
+package creation.factroy;
 
 /**
  * 配置解析
@@ -6,13 +6,13 @@ package creation;
  * @author zhaopc
  * @date 2021/4/18 14:27
  */
-public interface ConfigParser {
+public interface ISystemConfigParser {
 
     /**
-     * 解析配置文件
+     * 解析系统配置文件
      *
      * @param path 文件路径
      * @return Config
      */
-    Config parse(String path);
+    SystemConfig parse(String path);
 }
