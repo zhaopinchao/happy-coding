@@ -1,6 +1,6 @@
 /**
- * @author: zhaopc@tuya.com
- * @date: 2020-05-18 11:00
+ * @author zhaopc
+ * @date 2020-05-18 11:00
  * @description
  */
 public class Q152MaxProduct {

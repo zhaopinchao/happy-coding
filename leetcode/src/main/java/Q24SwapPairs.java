@@ -1,8 +1,8 @@
 import com.zhaopinchao.leetcode.editor.cn.ListNode;
 
 /**
- * @author: zhaopc@tuya.com
- * @date: 2020-05-21 22:54
+ * @author zhaopc
+ * @date 2020-05-21 22:54
  * @description
  */
 public class Q24SwapPairs {

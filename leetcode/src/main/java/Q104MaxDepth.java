@@ -1,7 +1,7 @@
 
 /**
- * @author: zhaopc@tuya.com
- * @date: 2020-05-30 15:19
+ * @author zhaopc
+ * @date 2020-05-30 15:19
  * @description
  */
 public class Q104MaxDepth {

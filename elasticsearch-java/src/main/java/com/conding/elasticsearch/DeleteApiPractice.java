@@ -12,8 +12,8 @@ import org.elasticsearch.index.VersionType;
 import java.io.IOException;
 
 /**
- * @author: zhaopc@tuya.com
- * @date: 2020-05-14 22:16
+ * @author zhaopc
+ * @date 2020-05-14 22:16
  * @description
  */
 public class DeleteApiPractice {

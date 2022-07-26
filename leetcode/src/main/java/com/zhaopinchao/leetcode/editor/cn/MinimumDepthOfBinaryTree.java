@@ -20,12 +20,6 @@
 
 package com.zhaopinchao.leetcode.editor.cn;
 
-import apple.laf.JRSUIUtils;
-
-import java.util.ArrayDeque;
-import java.util.Deque;
-import java.util.Stack;
-
 public class MinimumDepthOfBinaryTree {
     public static void main(String[] args) {
         Solution solution = new MinimumDepthOfBinaryTree().new Solution();

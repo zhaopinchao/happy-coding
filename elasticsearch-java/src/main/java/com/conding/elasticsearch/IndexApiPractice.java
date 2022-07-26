@@ -14,8 +14,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author: zhaopc@tuya.com
- * @date: 2020-05-06 22:03
+ * @author zhaopc
+ * @date 2020-05-06 22:03
  * @description
  */
 public class IndexApiPractice {

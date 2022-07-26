@@ -1,8 +1,8 @@
 import java.util.HashMap;
 
 /**
- * @author: zhaopc@tuya.com
- * @date: 2020-05-15 23:06
+ * @author zhaopc
+ * @date 2020-05-15 23:06
  * @description
  */
 public class Q560SubarraySum {

@@ -13,8 +13,8 @@ import java.util.Map;
 import java.util.concurrent.CountDownLatch;
 
 /**
- * @author: zhaopc@tuya.com
- * @date: 2020-05-11 23:09
+ * @author zhaopc
+ * @date 2020-05-11 23:09
  * @description
  */
 public class UpdateApiPractice extends EsClient {

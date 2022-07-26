@@ -2,8 +2,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author: zhaopc@tuya.com
- * @date: 2020-05-28 22:44
+ * @author zhaopc
+ * @date 2020-05-28 22:44
  * @description
  */
 public class Q412FizzBuzz {

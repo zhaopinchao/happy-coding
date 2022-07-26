@@ -1,6 +1,6 @@
 /**
- * @author: zhaopc@tuya.com
- * @date: 2020-05-29 21:31
+ * @author zhaopc
+ * @date 2020-05-29 21:31
  * @description
  */
 public class Q258AddDigits {

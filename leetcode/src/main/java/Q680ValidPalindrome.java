@@ -2,8 +2,8 @@ import java.util.ArrayDeque;
 import java.util.Deque;
 
 /**
- * @author: zhaopc@tuya.com
- * @date: 2020-05-19 19:33
+ * @author zhaopc
+ * @date 2020-05-19 19:33
  * @description
  */
 public class Q680ValidPalindrome {

@@ -2,8 +2,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author: zhaopc@tuya.com
- * @date: 2020-06-02 08:08
+ * @author zhaopc
+ * @date 2020-06-02 08:08
  * <p>
  * 假设你正在爬楼梯。需要 n 阶你才能到达楼顶。
  * 每次你可以爬 1 或 2 个台阶。你有多少种不同的方法可以爬到楼顶呢？

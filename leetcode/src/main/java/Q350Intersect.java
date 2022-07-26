@@ -4,8 +4,8 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author: zhaopc@tuya.com
- * @date: 2020-05-25 23:03
+ * @author zhaopc
+ * @date 2020-05-25 23:03
  * @description
  */
 public class Q350Intersect {

@@ -3,8 +3,8 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * @author: zhaopc@tuya.com
- * @date: 2020-05-20 08:30
+ * @author zhaopc
+ * @date 2020-05-20 08:30
  * @description
  */
 public class Q1371FindTheLongestSubstring {

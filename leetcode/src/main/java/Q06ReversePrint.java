@@ -4,11 +4,11 @@ import java.util.ArrayDeque;
 import java.util.Deque;
 
 /**
- * @author: zhaopc@tuya.com
- * @date: 2020-06-03 22:22
+ * @author zhaopc
+ * @date 2020-06-03 22:22
  * @description
  */
-public class Q06ReversePrint {
+public class  Q06ReversePrint {
 
     public int[] reversePrint(ListNode head) {
         if (head == null) {

@@ -11,8 +11,8 @@ import org.elasticsearch.index.VersionType;
 import java.io.IOException;
 
 /**
- * @author: zhaopc@tuya.com
- * @date: 2020-05-08 22:27
+ * @author zhaopc
+ * @date 2020-05-08 22:27
  * @description
  */
 public class GetApiPractice extends EsClient {

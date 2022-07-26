@@ -7,8 +7,8 @@ import org.elasticsearch.client.RestHighLevelClient;
 import java.io.IOException;
 
 /**
- * @author: zhaopc@tuya.com
- * @date: 2020-05-08 22:23
+ * @author zhaopc
+ * @date 2020-05-08 22:23
  * @description
  */
 public class EsClient {

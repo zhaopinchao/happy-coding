@@ -3,8 +3,8 @@ import java.util.Deque;
 import java.util.Stack;
 
 /**
- * @author: zhaopc@tuya.com
- * @date: 2020-05-26 23:01
+ * @author zhaopc
+ * @date 2020-05-26 23:01
  * @description
  */
 public class Q239MaxSlidingWindow {

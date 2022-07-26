@@ -1,6 +1,6 @@
 /**
- * @author: zhaopc@tuya.com
- * @date: 2020-06-04 23:30
+ * @author zhaopc
+ * @date 2020-06-04 23:30
  * @description
  */
 public class Q68LowestCommonAncestor {
